@@ -1,0 +1,8 @@
+name = "No Food Stack"
+filename = "nofoodstack-1.0.4+8.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Aurailus/bta-no-food-stack/releases/download/1.0.4/nofoodstack-1.0.4+8.0.jar"
+hash-format = "sha256"
+hash = "1e9b5a3f71def2485fe529356d304cffade5e4613f9f7fc3e468ca6a84179f95"

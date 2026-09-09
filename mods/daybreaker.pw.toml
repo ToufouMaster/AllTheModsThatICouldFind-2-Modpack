@@ -1,0 +1,8 @@
+name = "Daybreaker"
+filename = "btadaybreaker-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/gungun974/BTA-Daybreaker/releases/download/1.0.5-8.0/btadaybreaker-1.0.5.jar"
+hash-format = "sha256"
+hash = "b2e8c5b97204d0478db13010f69df641782e9c95a9de855fb82be18eca3db084"

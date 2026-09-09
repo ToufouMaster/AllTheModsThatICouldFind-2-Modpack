@@ -1,0 +1,8 @@
+name = "UselessNumerical"
+filename = "uselessnumerical-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/gungun974/UselessNumerical/releases/download/1.1.1-8.0/uselessnumerical-1.1.1.jar"
+hash-format = "sha256"
+hash = "3d35400baa540d00aebe0bb5caf22c1ecd333460508ed01432fabb9a427465c8"

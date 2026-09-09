@@ -5,6 +5,16 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "mods/better-with-enchanting.pw.toml"
+hash = "7290964dbed1f47de18b4dafa75c484a37ff536bff6dc730b07c15079d892f96"
+metafile = true
+
+[[files]]
+file = "mods/brainless.pw.toml"
+hash = "d2df591d2d05f8d886a05095d753eba8b4bc7d4c321de32e992ac9d780131ae5"
+metafile = true
+
+[[files]]
 file = "mods/btwaila.pw.toml"
 hash = "bb976533a3923590a1a6ede9c0a86fb329d71753d45867061af69f9954ce5151"
 metafile = true
@@ -15,6 +25,51 @@ hash = "712fb111fd8aa0322e6a0574bfbac519c6845083da40cdfa925dfe8c7d92651b"
 metafile = true
 
 [[files]]
+file = "mods/cupboards.pw.toml"
+hash = "7af472b173be87e9f73f5c61b6c79c8ee2a4a92518fec02e4124d910c4f69cc5"
+metafile = true
+
+[[files]]
+file = "mods/daybreaker.pw.toml"
+hash = "3cd022e59588b38b04e02bc14825450c1ea02c40cdaf50556d59238aec2c3f3d"
+metafile = true
+
+[[files]]
 file = "mods/fastboot.pw.toml"
 hash = "305a34ff97e8d5d84f78f760faa604d3ac72fe96cee5ae0615d743dd5b121eac"
+metafile = true
+
+[[files]]
+file = "mods/golden-bat.pw.toml"
+hash = "048dfebb6b1f3c8278e51b1a9a4c0b7eb3536ebb4f6549502cfbb2c4038375fa"
+metafile = true
+
+[[files]]
+file = "mods/ironfurnacesmod.pw.toml"
+hash = "e72d848fc6b601fb210c1ac3376cd794c9c0b62cfdd9fb28340a150399c8ee64"
+metafile = true
+
+[[files]]
+file = "mods/no-food-stack.pw.toml"
+hash = "16e64c40a6203d633b7f483311ffbf3b412d119fb5db1c16d2ebbed26a2bbe6c"
+metafile = true
+
+[[files]]
+file = "mods/stargate.pw.toml"
+hash = "e7dfdc2b18ecf79e728da514260eeda7b1243c6ded855a92b52ce8e40038f9a4"
+metafile = true
+
+[[files]]
+file = "mods/they-stole-max-brain.pw.toml"
+hash = "758490ff397138e9e67fa43f03fe531a9808f0943a714895c309de404006a1b3"
+metafile = true
+
+[[files]]
+file = "mods/tribute.pw.toml"
+hash = "af5822e1f7a04a639459d656fd4203b3fa16a23d7bd80029929a8c0ce1d13525"
+metafile = true
+
+[[files]]
+file = "mods/uselessnumerical.pw.toml"
+hash = "0456af9982991b722219f4f8da7a9991fbec9c57a352b7c107d6a4a6e3ac934b"
 metafile = true

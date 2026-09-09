@@ -1,0 +1,8 @@
+name = "Stargate"
+filename = "stargate-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/gungun974/BTA-Stargate/releases/download/nightly/stargate-1.0.0.jar"
+hash-format = "sha256"
+hash = "2d4f37a840fb80c530475508eebafd36a57636ba4cc4baa6f00338dd663f698a"

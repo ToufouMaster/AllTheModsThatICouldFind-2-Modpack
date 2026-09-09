@@ -1,0 +1,8 @@
+name = "Tribute"
+filename = "tribute-2.0.1+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TheMidFord/BTA-Tribute/releases/download/2.0.1/tribute-2.0.1+8.0.1.jar"
+hash-format = "sha256"
+hash = "6dc2d1e149ace9e4924df21a3dad3871dc4d517fe0716a0539c22633f74a41d0"
