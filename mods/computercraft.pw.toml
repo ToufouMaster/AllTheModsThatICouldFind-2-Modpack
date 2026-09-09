@@ -1,0 +1,13 @@
+name = "ComputerCraft"
+filename = "cc-bta-v8.0-1.96.16.jar"
+side = "both"
+
+[option]
+optional = false
+default = true
+description = "A port of the modern CC: Tweaked mod to the Better Than Adventure beta version of Minecraft."
+
+[download]
+url = "https://github.com/gungun974/BTA-CC-Tweaked/releases/download/v8.0-1.96.16/cc-bta-v8.0-1.96.16.jar"
+hash-format = "sha256"
+hash = "9757de1515b99d6eb3ad64fb2132baf46cc6097f15af3ed8836cfe240b728683"

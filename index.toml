@@ -5,6 +5,16 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "mods/btwaila.pw.toml"
+hash = "bb976533a3923590a1a6ede9c0a86fb329d71753d45867061af69f9954ce5151"
+metafile = true
+
+[[files]]
+file = "mods/computercraft.pw.toml"
+hash = "712fb111fd8aa0322e6a0574bfbac519c6845083da40cdfa925dfe8c7d92651b"
+metafile = true
+
+[[files]]
 file = "mods/fastboot.pw.toml"
 hash = "305a34ff97e8d5d84f78f760faa604d3ac72fe96cee5ae0615d743dd5b121eac"
 metafile = true

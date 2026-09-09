@@ -1,15 +1,15 @@
-name = "BTA! packwiz example modpack"
-author = "camoweed"
+name = "All The Mods That I Could Find 2"
+author = "toufoumaster"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e2961a49fba2c8b16f288b56c65edcb6d5bfd758b8507cae5d14d2f0fd3f1b30"
+hash = "a0066749f4645024e8b88ba662da0c866a808031e83c0df7e8adea5837ab1e0b"
 
 [versions]
-bta = "8.0"
+bta = "8.0.1"
 fabric = "0.18.4-bta.11"
 minecraft = "b1.7.3"
 unsup = "1.2.7"
